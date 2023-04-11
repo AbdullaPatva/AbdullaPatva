@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbdullaPatva
-- 👀 I’m interested in developing wordpress websites
-- 🌱 I’m currently a wordpress full stack development
+- 🌱 Currently a wordpress full stack developmer
 - 📫 You can reach to me via abdulla.patva@multidots.com
 
 <!---
